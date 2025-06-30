@@ -1,7 +1,7 @@
 
 <h1 align="center" id="title">Luma Web Automation</h1>
 
-<p align="center"><img src="https://socialify.git.ci/TanvirNiloy/LUMA-Automation/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="LUMA-Automation" width="640" height="320" /></p>
+<p align="center"><img src="https://socialify.git.ci/niloytanvir/Luma-Automation/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="Luma-Automation" width="640" height="320" /></p>
 
 <p id="description">This project is a demonstration of end-to-end (E2E) testing using Cypress. It includes automated tests for a web application to ensure that all functionalities work as expected. This is a pet project to practice cypress. Currently just structure the project and added test for the Login page Logout and check feature are clickable or not. In future i will added more test cases on this.</p>
 
