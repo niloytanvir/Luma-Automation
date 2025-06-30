@@ -17,7 +17,7 @@ Here're some of the project's best features:
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. Clone the repository : git clone https://github.com/yourusername/cypress-project.git</p>
+<p>1. Clone the repository : https://github.com/niloytanvir/Luma-Automation</p>
 
 <p>2. Navigate to the project directory : cd cypress-project</p>
 
